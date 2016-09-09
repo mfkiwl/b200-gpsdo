@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.025" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -1714,6 +1714,9 @@ Your Eurocircuits Team
 </polygon>
 <via x="20.32" y="30.48" extent="1-16" drill="0.5"/>
 <contactref element="U1" pad="11"/>
+<via x="6.985" y="5.08" extent="1-16" drill="0.5"/>
+<via x="20.955" y="5.08" extent="1-16" drill="0.5"/>
+<via x="13.97" y="11.43" extent="1-16" drill="0.5"/>
 </signal>
 <signal name="PPS">
 <contactref element="U2" pad="4"/>
