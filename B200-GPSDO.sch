@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -6023,7 +6023,7 @@ Source: AVX .. aphvc.pdf</description>
 <text x="11.43" y="8.255" size="1.27" layer="95" ratio="10">Y</text>
 <text x="2.54" y="13.335" size="1.27" layer="95" ratio="10">!OE</text>
 <pin name="A" x="-5.08" y="7.62" visible="pad" length="middle" direction="in"/>
-<pin name="Y" x="20.32" y="2.54" visible="pad" length="middle" direction="oc" rot="R180"/>
+<pin name="Y" x="20.32" y="2.54" visible="pad" length="middle" direction="out" rot="R180"/>
 <pin name="VCC" x="20.32" y="12.7" length="middle" direction="pwr" rot="R180"/>
 <pin name="GND" x="-5.08" y="2.54" length="middle" direction="pwr"/>
 <pin name="OE#" x="-5.08" y="12.7" visible="pad" length="middle" direction="in"/>
