@@ -1604,13 +1604,13 @@ Your Eurocircuits Team
 <attribute name="VALUE" x="8.89" y="0.3175" size="1.27" layer="27"/>
 </element>
 <element name="U1" library="B200-GPSDO" package="LEA" value="LEA-6T" x="13.97" y="14.8844" rot="R180"/>
-<element name="U2" library="B200-GPSDO" package="SOT-23-5" value="NC7SZ125" x="12.065" y="29.21" smashed="yes" rot="R180">
+<element name="U2" library="B200-GPSDO" package="SOT-23-5" value="NC7SZ125M5X" x="12.065" y="29.21" smashed="yes" rot="R180">
 <attribute name="NAME" x="11.43" y="32.385" size="1.016" layer="25" ratio="18" rot="R180"/>
-<attribute name="VALUE" x="15.24" y="33.3375" size="0.8128" layer="27" ratio="10" rot="R180"/>
+<attribute name="VALUE" x="17.653" y="33.3375" size="0.8128" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="U3" library="B200-GPSDO" package="SOT-23-5" value="NC7SZ125" x="2.54" y="29.21" smashed="yes" rot="R180">
-<attribute name="NAME" x="1.905" y="32.385" size="1.016" layer="25" ratio="18" rot="R180"/>
-<attribute name="VALUE" x="5.715" y="33.3375" size="0.8128" layer="27" ratio="10" rot="R180"/>
+<element name="U3" library="B200-GPSDO" package="SOT-23-5" value="NC7SZ125M5X" x="2.54" y="29.21" smashed="yes" rot="R180">
+<attribute name="NAME" x="2.032" y="32.385" size="1.016" layer="25" ratio="18" rot="R180"/>
+<attribute name="VALUE" x="8.255" y="33.3375" size="0.8128" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U4" library="B200-GPSDO" package="GPSDO" value="GPSDO" x="13.97" y="11.43" smashed="yes"/>
 </elements>

@@ -6329,8 +6329,8 @@ Source: AVX .. aphvc.pdf</description>
 <part name="C2" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
-<part name="U2" library="B200-GPSDO" deviceset="NC7SZ125" device=""/>
-<part name="U3" library="B200-GPSDO" deviceset="NC7SZ125" device=""/>
+<part name="U2" library="B200-GPSDO" deviceset="NC7SZ125" device="" value="NC7SZ125M5X"/>
+<part name="U3" library="B200-GPSDO" deviceset="NC7SZ125" device="" value="NC7SZ125M5X"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="R1" library="rcl" deviceset="R-US_" device="R0805" value="1k"/>
 <part name="P+5" library="supply1" deviceset="VCC" device=""/>
